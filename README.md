@@ -14,7 +14,7 @@ The system enables secure submission, review, and management of confidential leg
 
 🌐 **Live Application**: [https://privacy-evidence-manager.vercel.app/](https://privacy-evidence-manager.vercel.app/)
 
-📺 **Demo Video**: Available in `/Demo Video.mp4`
+📺 **Demo Video**: Available in `/PrivacyEvidenceManager.mp4`
 
 📦 **GitHub Repository**: [https://github.com/KristofferSchuppe/PrivacyEvidenceManager](https://github.com/KristofferSchuppe/PrivacyEvidenceManager)
 
@@ -114,7 +114,7 @@ A comprehensive demonstration video is included showing:
 6. On-chain transaction verification
 7. Access control demonstration
 
-**Video Location**: `Demo Video.mp4`
+**Video Location**: `PrivacyEvidenceManager.mp4`
 
 **Video Highlights**:
 - Real-time blockchain interaction
